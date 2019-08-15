@@ -1,0 +1,11 @@
+ 	PROTEIN_ID 	SNP_ID 	Position 	wild_type 	Mutant 	wt-codon 	mu-codon
+0 	E001146 	rs2241057 	264 	L 	S 	tTg 	tCg
+1 	E002165 	rs3762001 	371 	H 	Y 	Cat 	Tat
+2 	E002165 	rs3762002 	356 	M 	V 	Atg 	Gtg
+3 	E002165 	rs11155297 	233 	A 	E 	gCa 	gAa
+4 	E002596 	rs1047389 	181 	D 	D 	gaT 	gaC
+5 	E003084 	rs213950 	470 	V 	M 	Gtg 	Atg
+6 	E003084 	rs1042077 	854 	T 	T 	acT 	acA
+7 	E003084 	rs1042077 	854 	T 	T 	acT 	acG
+8 	E003302 	rs2465647 	735 	S 	S 	tcG 	tcC
+9 	E003302 	rs2465647 	735 	S 	S 	tcG 	tcA
